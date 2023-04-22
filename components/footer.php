@@ -4,7 +4,7 @@
 
       <div class="box">
          <h3>Quick links</h3>
-         <a href="home.php"> <i class="fas fa-angle-right"></i> home</a>
+         <a href="home.php" > <i class="fas fa-angle-right"></i> home</a>
          <a href="about.php"> <i class="fas fa-angle-right"></i> about</a>
          <a href="shop.php"> <i class="fas fa-angle-right"></i> shop</a>
          <a href="contact.php"> <i class="fas fa-angle-right"></i> contact</a>
@@ -28,14 +28,14 @@
 
       <div class="box">
          <h3>Follow us</h3>
-         <a href="#"><i class="fab fa-facebook-f"></i>facebook</a>
-         <a href="#"><i class="fab fa-twitter"></i>twitter</a>
-         <a href="#"><i class="fab fa-instagram"></i>instagram</a>
+         <a href="https://www.facebook.com/rajat.khandelwal.33449"><i class="fab fa-facebook-f"></i>facebook</a>
+         <a href="https://twitter.com/MrKhandelwal_"><i class="fab fa-twitter"></i>twitter</a>
+         <a href="https://www.instagram.com/its.rajat__/"><i class="fab fa-instagram"></i>instagram</a>
          <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
       </div>
 
    </section>
 
-   <div class="credit">&copy; copyright @ <?= date('Y'); ?> by <span>MIDRISERS</span> | all rights reserved!</div>
+   <div class="credit" style="color:white;">&copy; copyright @ <?= date('Y'); ?> by <span style="color:orange" >MIDRISERS</span> | all rights reserved!</div>
 
 </footer>

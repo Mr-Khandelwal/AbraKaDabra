@@ -18,11 +18,13 @@
    box-sizing: border-box;
    outline: none; border:none;
    text-decoration: none;
+   
 }
 
 *::selection{
    background-color: var(--main-color);
    color:var(--white);
+   
 }
 
 ::-webkit-scrollbar{
@@ -45,6 +47,7 @@ html{
 
 body{
    background-color: var(--light-bg);
+   
 }
 
 section{
@@ -233,7 +236,7 @@ section{
  }
  
  .home-bg{
-    background:url(../images/home-bg.png) no-repeat;
+    background:url(../images/frontpage.png) no-repeat;
     background-size: cover;
     background-position: center;
  }
@@ -935,7 +938,9 @@ section{
 
 
  .footer{
+  
    background-color: var(--white);
+   background :url("../images/frontpage.png") no-repeat;
    /* padding-bottom: 7rem; */
 }
 
@@ -948,7 +953,7 @@ section{
 
 .footer .grid .box h3{
    font-size: 2rem;
-   color:var(--black);
+   color:var(--white);
    margin-bottom: 2rem;
    text-transform: capitalize;
 }
@@ -957,12 +962,12 @@ section{
    display: block;
    margin:1.5rem 0;
    font-size: 1.7rem;
-   color:var(--light-color);
+   color:var(--white);
 }
 
 .footer .grid .box a i{
    padding-right: 1rem;
-   color:var(--main-color);
+   color:var(--white);
    transition: .2s linear;
 }
 
@@ -977,9 +982,10 @@ section{
 .footer .credit{
    text-align: center;
    padding: 2.5rem 2rem;
-   border-top: var(--border);
+   border-top: var(--boder);
+   border-color: white;
    font-size: 2rem;
-   color:var(--black);
+   color:var(--white);
 }
 
 .footer .credit span{
