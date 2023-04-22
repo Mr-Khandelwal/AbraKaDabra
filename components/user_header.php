@@ -13,19 +13,20 @@
 
 <header class="header">
 
-   <section class="flex">
+  
+<section class="flex">
 
-      <a href="home.php" class="logo">Aabra Ka Dabra<span>.</span></a>
+<a href="home.php" class="logo"><span style="font-family:courier;"><b>AabrakaDabra.</b></span></a>
 
-      <nav class="navbar">
-         <a href="home.php">home</a>
-         <a href="about.php">about</a>
-         <a href="orders.php">orders</a>
-         <a href="shop.php">shop</a>
-         <a href="contact.php">contact</a>
-      </nav>
+<nav class="navbar">
+   <a href="home.php">home</a>
+   <a href="about.php">about</a>
+   <a href="orders.php">orders</a>
+   <a href="shop.php">shop</a>
+   <a href="contact.php">contact</a>
+</nav>
 
-      <div class="icons">
+<div class="icons">
          <?php
             $count_wishlist_items = $conn->prepare("SELECT * FROM `wishlist` WHERE user_id = ?");
             $count_wishlist_items->execute([$user_id]);

@@ -45,7 +45,7 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-1.png" alt="">
+            <img src="images/home-img-5.png" alt="">
          </div>
          <div class="content">
             <span>upto 50% off</span>
@@ -67,7 +67,7 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-3.png" alt="">
+            <img src="images/home-img-4.png" alt="">
          </div>
          <div class="content">
             <span>upto 50% off</span>
