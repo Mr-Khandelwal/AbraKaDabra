@@ -43,7 +43,10 @@ if(isset($_SESSION['user_id'])){
 
         <div class="content">
             <h3>why choose us?</h3>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam veritatis minus et similique doloribus? Harum molestias tenetur eaque illum quas? Obcaecati nulla in itaque modi magnam ipsa molestiae ullam consequuntur.</p>
+            <p>At AbraKaDabra, providing exceptional customer service is our USP, our main strength. We take pride in providing outstanding services to our clients. 
+                We know that our customers are important for us and hence we do not leave any stone unturned in helping, guiding and providing the best possible 
+                products & after sales services and support to our clients. We have skills & expertise that make us one of the most trusted names in the industry. 
+                Over the years we have developed an extensive mechanism in order to deal with some of the most complex issues.</p>
             <a href="contact.php" class="btn">contact us</a>
         </div>
 
@@ -61,7 +64,11 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-1.png" alt="">
-         <p></p>
+         <p>This is a Must Have for all Back To The Future fans!!
+            This full length DVD covers a Awesome job show how the
+            original DeLorean Time Machine is restored and preserved in
+            complete details as it was in the movie.
+         </p>
          <div class="stars">
             <i class="fas fa-star"></i>
             <i class="fas fa-star"></i>
@@ -72,4 +79,128 @@ if(isset($_SESSION['user_id'])){
          <h3>john deo</h3>
       </div>
 
-     
+      <div class="swiper-slide slide">
+         <img src="images/pic-2.png" alt="">
+         <p>I have now spent hundreds of dollars hunting down items
+            I never knew about thanks to the book.
+         </p>
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+         </div>
+         <h3>Richard</h3>
+      </div>
+
+      <div class="swiper-slide slide">
+         <img src="images/pic-3.png" alt="">
+         <p>I love Back To The Future movie series. I always wanted
+            to have a Delorean then I see the toy.
+         </p>
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+         </div>
+         <h3>Marlin</h3>
+      </div>
+
+      <div class="swiper-slide slide">
+         <img src="images/pic-4.png" alt="">
+         <p>These necklaces are gorgeous and very well made.I might
+            be purchasing another from this site.
+         </p>
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+         </div>
+         <h3>Priyanka</h3>
+      </div>
+
+      <div class="swiper-slide slide">
+         <img src="images/pic-5.png" alt="">
+         <p>I highly recommend the backpack.It's a great
+            value for price and is perfect for anyone who needs a 
+            durable and comfortable backpack for daily use.
+         </p>
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+         </div>
+         <h3>Aayushman</h3>
+      </div>
+
+      <div class="swiper-slide slide">
+         <img src="images/pic-6.png" alt="">
+         <p>I recently purchased the Back To The Future classic cotton
+            Tshirt .The quality of fabric is awesome. It is comfortable to
+            wear.
+         </p>
+         <div class="stars">
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star"></i>
+            <i class="fas fa-star-half-alt"></i>
+         </div>
+         <h3>Lara</h3>
+      </div>
+
+   </div>
+
+   <div class="swiper-pagination"></div>
+
+   </div>
+
+</section>
+
+
+
+
+
+
+
+
+
+<?php include 'components/footer.php'; ?>
+
+<script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
+
+<script src="js/script.js"></script>
+
+<script>
+
+var swiper = new Swiper(".reviews-slider", {
+   loop:true,
+   spaceBetween: 20,
+   pagination: {
+      el: ".swiper-pagination",
+      clickable:true,
+   },
+   breakpoints: {
+      0: {
+        slidesPerView:1,
+      },
+      768: {
+        slidesPerView: 2,
+      },
+      991: {
+        slidesPerView: 3,
+      },
+   },
+});
+
+</script>
+
+</body>
+</html>
