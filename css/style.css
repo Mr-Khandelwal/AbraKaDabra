@@ -177,7 +177,8 @@ section{
  }
  
  .header .flex .logo span{
-    color:var(--main-color);
+   font-family: Lobster;
+   color:var(--main-color);
  }
  
  .header .flex .navbar a{
