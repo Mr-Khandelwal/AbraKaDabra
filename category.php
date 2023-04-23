@@ -62,5 +62,10 @@ include 'components/wishlist_cart.php';
             
     </div>
 </section>
+
+<?php include 'components/footer.php'; ?>
+
+<script src="js/script.js"></script>
+
 </body>
 </html>

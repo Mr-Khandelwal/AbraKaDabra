@@ -94,34 +94,34 @@ include 'components/wishlist_cart.php';
 
    <div class="swiper-wrapper">
 
-   <a href="category.php?category=laptop" class="swiper-slide slide">
+   <a href="category.php?category=Clothes" class="swiper-slide slide">
       <img src="images/icon-1.png" alt="">
-      <h3>Tshirt</h3>
+      <h3>Clothes</h3>
    </a>
 
-   <a href="category.php?category=tv" class="swiper-slide slide">
+   <a href="category.php?category=Homes & kitchen" class="swiper-slide slide">
       <img src="images/icon-2.png" alt="">
-      <h3>Games</h3>
+      <h3>Home & kitchen</h3>
    </a>
 
-   <a href="category.php?category=camera" class="swiper-slide slide">
+   <a href="category.php?category= Spices & Herbs" class="swiper-slide slide">
       <img src="images/icon-3.png" alt="">
-      <h3>Speaker</h3>
+      <h3>Spices & Herbs</h3>
    </a>
 
-   <a href="category.php?category=mouse" class="swiper-slide slide">
+   <a href="category.php?category=healthy eating" class="swiper-slide slide">
       <img src="images/icon-4.png" alt="">
-      <h3>Gadgets</h3>
+      <h3>healthy eating</h3>
    </a>
 
-   <a href="category.php?category=fridge" class="swiper-slide slide">
+   <a href="category.php?category=Beauty" class="swiper-slide slide">
       <img src="images/icon-5.png" alt="">
-      <h3>Books</h3>
+      <h3>Beauty</h3>
    </a>
 
-   <a href="category.php?category=washing" class="swiper-slide slide">
+   <a href="category.php?category= healthy eating" class="swiper-slide slide">
       <img src="images/icon-6.png" alt="">
-      <h3>Prop Replica</h3>
+      <h3>Medicines</h3>
    </a>
 
    </a>
