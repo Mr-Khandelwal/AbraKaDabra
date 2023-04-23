@@ -45,33 +45,33 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-5.png" alt="">
+            <img src="images/saree.png" alt="">
          </div>
          <div class="content">
             <span>upto 50% off</span>
-            <h3>BTTF Action Games</h3>
+            <h3>Khadi Clothes</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-2.png" alt="">
+            <img src="images/home-2.png" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
-            <h3>Bitty Boomer Speaker</h3>
+            <span>upto 40% off</span>
+            <h3>Cereals</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-4.png" alt="">
+            <img src="images/home-3.png" alt="">  
          </div>
          <div class="content">
             <span>upto 50% off</span>
-            <h3>BTTF Merch</h3>
+            <h3>Utensils</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
@@ -95,33 +95,33 @@ include 'components/wishlist_cart.php';
    <div class="swiper-wrapper">
 
    <a href="category.php?category=Clothes" class="swiper-slide slide">
-      <img src="images/icon-1.png" alt="">
+      <img src="images/cat (1).png" alt="">
       <h3>Clothes</h3>
    </a>
 
    <a href="category.php?category=Homes & kitchen" class="swiper-slide slide">
-      <img src="images/icon-2.png" alt="">
+      <img src="images/cat (2).png" alt="">
       <h3>Home & kitchen</h3>
    </a>
 
    <a href="category.php?category= Spices & Herbs" class="swiper-slide slide">
-      <img src="images/icon-3.png" alt="">
+      <img src="images/spicy.png" alt="">
       <h3>Spices & Herbs</h3>
    </a>
 
    <a href="category.php?category=healthy eating" class="swiper-slide slide">
-      <img src="images/icon-4.png" alt="">
+      <img src="images/cat (4).png" alt="">
       <h3>healthy eating</h3>
    </a>
 
    <a href="category.php?category=Beauty" class="swiper-slide slide">
-      <img src="images/icon-5.png" alt="">
+      <img src="images/cat (5).png" alt="">
       <h3>Beauty</h3>
    </a>
 
    <a href="category.php?category= healthy eating" class="swiper-slide slide">
-      <img src="images/icon-6.png" alt="">
-      <h3>Medicines</h3>
+      <img src="images/cat (6).png" alt="">
+      <h3>Health Care</h3>
    </a>
 
    </a>
