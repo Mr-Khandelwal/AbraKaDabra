@@ -10,6 +10,7 @@ if(!isset($admin_id)){
    header('location:admin_login.php');
 };
 
+
 if(isset($_POST['add_product'])){
 
    $name = $_POST['name'];
