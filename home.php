@@ -45,33 +45,33 @@ include 'components/wishlist_cart.php';
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-5.png" alt="">
+            <img src="images/home-1.png" alt="">
          </div>
          <div class="content">
             <span>upto 50% off</span>
-            <h3>BTTF Action Games</h3>
+            <h3>Khadi Clothes</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-2.png" alt="">
+            <img src="images/home-2.png" alt="">
          </div>
          <div class="content">
-            <span>upto 50% off</span>
-            <h3>Bitty Boomer Speaker</h3>
+            <span>upto 40% off</span>
+            <h3>Cereals</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
 
       <div class="swiper-slide slide">
          <div class="image">
-            <img src="images/home-img-4.png" alt="">
+            <img src="images/home-3.png" alt="">  
          </div>
          <div class="content">
             <span>upto 50% off</span>
-            <h3>BTTF Merch</h3>
+            <h3>Utensils</h3>
             <a href="shop.php" class="btn">shop now</a>
          </div>
       </div>
