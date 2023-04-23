@@ -111,7 +111,7 @@ include 'components/wishlist_cart.php';
 
    <a href="category.php?category=healthy eating" class="swiper-slide slide">
       <img src="images/cat (4).png" alt="">
-      <h3>healthy eating</h3>
+      <h3>Healthy eating</h3>
    </a>
 
    <a href="category.php?category=Beauty" class="swiper-slide slide">
