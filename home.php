@@ -105,7 +105,7 @@ include 'components/wishlist_cart.php';
    </a>
 
    <a href="category.php?category= Spices & Herbs" class="swiper-slide slide">
-      <img src="images/cat (3).png" alt="">
+      <img src="images/spicy.png" alt="">
       <h3>Spices & Herbs</h3>
    </a>
 
@@ -121,7 +121,7 @@ include 'components/wishlist_cart.php';
 
    <a href="category.php?category= healthy eating" class="swiper-slide slide">
       <img src="images/cat (6).png" alt="">
-      <h3>Medicines</h3>
+      <h3>Health Care</h3>
    </a>
 
    </a>
