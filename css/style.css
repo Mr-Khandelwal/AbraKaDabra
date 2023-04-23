@@ -939,7 +939,7 @@ section{
  .footer{
   
    background-color: var(--white);
-   background :url("../images/background.png") no-repeat;
+   background :url("../images/footer.png") no-repeat;
    /* padding-bottom: 7rem; */
 }
 
@@ -952,7 +952,7 @@ section{
 
 .footer .grid .box h3{
    font-size: 2rem;
-   color:var(--white);
+   color:black;
    margin-bottom: 2rem;
    text-transform: capitalize;
 }
@@ -961,12 +961,12 @@ section{
    display: block;
    margin:1.5rem 0;
    font-size: 1.7rem;
-   color:var(--white);
+   color:black;
 }
 
 .footer .grid .box a i{
    padding-right: 1rem;
-   color:var(--white);
+   color:black;
    transition: .2s linear;
 }
 
