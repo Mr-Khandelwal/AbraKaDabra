@@ -67,7 +67,7 @@
             
          </div>
          <div>
-            <a href="admin_login.php" class="option-btn">Admin</a>
+            <a href="admin/admin_login.php" class="option-btn">Admin</a>
             </div>
          <?php
             }
