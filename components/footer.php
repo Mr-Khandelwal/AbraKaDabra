@@ -36,6 +36,6 @@
 
    </section>
 
-   <div class="credit" style="color:white;">&copy; copyright @ <?= date('Y'); ?> by <span style="color:orange" >MIDRISERS</span> | all rights reserved!</div>
+   <div class="credit" style="color:black;">&copy; copyright @ <?= date('Y'); ?> by <span style="color:orange" >MIDRISERS</span> | all rights reserved!</div>
 
 </footer>
