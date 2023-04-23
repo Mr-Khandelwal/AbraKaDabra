@@ -43,10 +43,14 @@ if(isset($_SESSION['user_id'])){
 
         <div class="content">
             <h3>why choose us?</h3>
-            <p>At AbraKaDabra, providing exceptional customer service is our USP, our main strength. We take pride in providing outstanding services to our clients. 
-                We know that our customers are important for us and hence we do not leave any stone unturned in helping, guiding and providing the best possible 
-                products & after sales services and support to our clients. We have skills & expertise that make us one of the most trusted names in the industry. 
-                Over the years we have developed an extensive mechanism in order to deal with some of the most complex issues.</p>
+            <p>At AbraKaDabra, providing exceptional customer service is our USP, our 
+               main strength. We take pride in providing outstanding services to our 
+               clients.We know that our customers are important for us and hence we do not 
+               leave any stone unturned in helping, guiding and providing the best possible
+               products & after sales services and support to our clients. We have skills & 
+               expertise that make us one of the most trusted names in the industry. Over 
+               the years we have developed an extensive mechanism in order to deal with 
+               some of the most complex issues.</p>
             <a href="contact.php" class="btn">contact us</a>
         </div>
 
@@ -64,10 +68,12 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-1.png" alt="">
-         <p>This is a Must Have for all Back To The Future fans!!
-            This full length DVD covers a Awesome job show how the
-            original DeLorean Time Machine is restored and preserved in
-            complete details as it was in the movie.
+         <p>I recently purchased a variety of organic spices from this 
+            company and I am extremely satisfied with my purchase. The 
+            quality of the spices is outstanding and I love that they are 
+            organic and free of any harmful chemicals. The packaging is also 
+            well done, ensuring that the spices stay fresh and flavorful 
+            for a long time.
          </p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -81,8 +87,12 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-2.png" alt="">
-         <p>I have now spent hundreds of dollars hunting down items
-            I never knew about thanks to the book.
+         <p>I recently purchased a set of organic spices and was blown away 
+            by their quality and flavor. The spices were noticeably fresher 
+            and more fragrant than the non-organic ones I had used before.
+            Overall, I highly recommend these organic spices to anyone looking 
+            to elevate their cooking with high-quality, responsibly sourced 
+            ingredients.
          </p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -96,8 +106,11 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-3.png" alt="">
-         <p>I love Back To The Future movie series. I always wanted
-            to have a Delorean then I see the toy.
+         <p>I recently tried a range of herbal beauty products and I'm 
+            absolutely in love with them! The herbal extracts and essential 
+            oils in these products are not only gentle on my skin but also 
+            have incredible nourishing properties that leave my skin feeling 
+            soft, supple, and rejuvenated.
          </p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -111,8 +124,9 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-4.png" alt="">
-         <p>These necklaces are gorgeous and very well made.I might
-            be purchasing another from this site.
+         <p>I recently purchased a Khadi cotton saree and I am absolutely in 
+            love with it! The fabric is so soft and breathable, and the saree 
+            has a beautiful drape that makes me feel elegant and stylish. 
          </p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -126,9 +140,13 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-5.png" alt="">
-         <p>I highly recommend the backpack.It's a great
-            value for price and is perfect for anyone who needs a 
-            durable and comfortable backpack for daily use.
+         <p>I recently switched to using copper and mud utensils in my 
+            kitchen, and I am blown away by their quality and versatility.
+            The copper utensils are not only visually stunning with their 
+            elegant design, but also have amazing heat conductivity which 
+            makes cooking a breeze. The mud pots are perfect for slow-cooking 
+            dishes and add a distinct flavor to my food. I love that these 
+            utensils are not only durable but also have health benefits.
          </p>
          <div class="stars">
             <i class="fas fa-star"></i>
@@ -142,9 +160,11 @@ if(isset($_SESSION['user_id'])){
 
       <div class="swiper-slide slide">
          <img src="images/pic-6.png" alt="">
-         <p>I recently purchased the Back To The Future classic cotton
-            Tshirt .The quality of fabric is awesome. It is comfortable to
-            wear.
+         <p>Food grains such as bajra,ragi and millets have a unique nutty 
+            flavor and a pleasant texture that makes them a great addition to 
+            any meal.Overall, I highly recommend incorporating bajra, ragi, and
+            other millets into your diet for a delicious and healthy eating  
+            experience. 
          </p>
          <div class="stars">
             <i class="fas fa-star"></i>
